@@ -1,0 +1,52 @@
+.register{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+    border: 10px solid black;
+    border-radius: 10px;
+    height: 100vh;
+    background-image: url(Jyothi-1.jpg); 
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh; 
+    
+}
+.Button{
+    background-color:red;
+    color: black;
+    padding: 10px 20px;
+}
+.second{
+    display: flex;
+
+                border: 10px solid blue;
+                flex-direction: column;
+                padding: 100px;
+                align-items: center;
+                background: linear-gradient(to right, rgb(0, 13, 253), rgb(0, 187, 255));
+}
+.Container{
+     
+                flex-direction: column;
+                justify-content: center;
+                padding: 100px;
+                align-items: center;
+                text-align: center;
+              
+}
+
+.Box{
+    background: linear-gradient(to right, rgb(57, 2, 73), rgb(0, 80, 240));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+    border: 10px solid black;
+    border-radius: 10px;
+    height: 100vh;
+    padding: 100px;
+}
